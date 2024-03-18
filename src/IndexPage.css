@@ -1,0 +1,21 @@
+/* src/IndexPage.css */
+.index-page-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .navigation-links {
+    margin-top: 20px;
+  }
+  
+  .navigation-links a {
+    margin-right: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .navigation-links a:hover {
+    color: #007bff;
+  }
+  
